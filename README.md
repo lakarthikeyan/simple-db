@@ -53,9 +53,11 @@ This web application enables users to register by providing their name, email, a
 
 1. Add User:
 
+![register_user](https://github.com/lakarthikeyan/simple-db/assets/134414876/74fb8eb3-3002-47a7-a103-1ede25eabd38)
 
 
 2. View Users:
 
+![view_users](https://github.com/lakarthikeyan/simple-db/assets/134414876/93f872f7-48cf-4675-a565-ac7e94e47a40)
 
 
